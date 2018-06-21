@@ -4,8 +4,11 @@ En blogg som handlar om Norrhamn på Landsort. Byggt med Firebase, Flask, CSS 3,
 # Start server by 
 
 ```
-py ....
+cd flaskServer 
+py server.py
+
 ```
+The server is up on localhost:5000 
 
 # Requirements
 ## python3
