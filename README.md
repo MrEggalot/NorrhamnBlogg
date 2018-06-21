@@ -20,7 +20,7 @@ py -m pip install Flask
 ```
 
 # Plan
-## 1. Set up flask server
-## 2. Set up HTML5, CSS3 and JS
-## 3. Set up fierbase
+## 1. Setup flask server
+## 2. Setup HTML5, CSS3 and JS
+## 3. Setup fierbase
 ## 4. Go ham on the designe 
