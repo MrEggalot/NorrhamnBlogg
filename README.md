@@ -18,6 +18,8 @@ The server is up on localhost:5000
 py -m pip install Flask
 
 ```
+# Projects info
+## All HTML is located in templets folder
 
 # Plan
 ## 1. Setup flask server
