@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Giedres Server!"
+    return render_template('index3.html')
 
 @app.route('/hello')
 def hello():

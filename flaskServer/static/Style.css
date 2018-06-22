@@ -1,0 +1,109 @@
+
+	body {
+		background-image: url("00-star-space-hubble-tile-pleiades.jpg");
+		color: white;
+	} 
+
+#pointless { 
+
+		background: linear-gradient(blue, cyan, blue, blue, cyan, blue);
+		color: white;
+		border: none;
+		height: 3cm;
+		width: 10cm;
+		font-size: 35pt;
+		border-radius: 0.4cm;
+	}
+
+#pointless:hover {
+		background-color: pink;
+	}
+
+#pointless:active {
+		background-color: blue;
+		height: 2cm;
+		width: 8cm;
+		font-size: 20pt;
+	}
+
+
+		a:link, a:visited {
+    background: linear-gradient(white, purple, white) ;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 0.4cm;
+
+}
+
+	img {
+		width: 5cm; 
+		height: 5cm;
+		box-sizing: border-box;
+		border-radius: 2.5cm;
+		border:double;
+		border-width: 0.2cm;
+		color: white;
+	}
+
+#clap {
+	background: linear-gradient(green, white, green, green, white, green);
+	width: 4cm;
+	height: 0,5cm;
+	border-radius: 2.5cm;
+	color: yellow;
+	margin: 0cm 3cm;
+}
+
+footer {
+	text-align: right;
+	color: #aabbcc;
+
+}
+
+#warning {
+	font-size: 0.3cm;
+	font-style: italic;
+	color: pink;
+}
+
+#gurka {
+	background:white;
+	border:none;
+	width:3cm;
+	height:3cm;
+	border-radius: 2.5cm;
+	border:solid;
+	border-color: grey;
+	font-size: 0.5cm;
+	margin: 0cm 7cm;
+
+
+}
+
+#gurka2 {
+	background:white;
+	border:none;
+	width:1cm;
+	height:1cm;
+	border-radius: 2.5cm;
+	border:solid;
+	border-color: grey;
+	font-size: 0.4cm;
+	margin: 0cm 17cm;
+}
+
+.fram {
+	height: 3cm;
+	width: 7cm;
+	font-size:0.5cm;
+	color: white;
+	background-color: blue;
+	border:double;
+	border-radius:0.2cm; 
+	margin: 0cm 12cm;
+	padding: 1px 12px;
+
+}
