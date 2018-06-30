@@ -1,3 +1,6 @@
 body {
     background-image: url("../pictures/sol.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
