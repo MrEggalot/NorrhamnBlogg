@@ -18,6 +18,11 @@ The server is up on localhost:5000
 py -m pip install Flask
 
 ```
+## fierbase with flask
+```
+py -m pip install firebase-admin flask    
+```
+
 # Projects info
 ## All HTML is located in templets folder
 
