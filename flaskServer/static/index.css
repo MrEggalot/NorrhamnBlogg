@@ -1,0 +1,17 @@
+body {
+    background-image: url("../pictures/sol.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+iframe {
+    border: none;
+    width: 100%;
+    height: 100%;
+    }
+
+div.toolbar {
+    width: 100%;
+}
